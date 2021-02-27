@@ -1,9 +1,9 @@
 numpy
-opencv-python
+opencv
 matplotlib
 scikit-image
 imageio
-torch
+pytorch
 torchvision
-torchsummary
+pytorch-model-summary
 tensorboardX
